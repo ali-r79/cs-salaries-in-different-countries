@@ -1,0 +1,115 @@
+company_location,experience_level,job_category,salary_in_usd
+Canada,Entry-level,Data Analysis,49049.4
+Canada,Entry-level,Data Engineering,90000.0
+Canada,Entry-level,Data Management and Strategy,100000.0
+Canada,Entry-level,Data Science and Research,63618.75
+Canada,Entry-level,Machine Learning and AI,137043.5
+Canada,Executive,Data Analysis,15000.0
+Canada,Executive,Data Engineering,115222.0
+Canada,Executive,Data Science and Research,192037.0
+Canada,Executive,Leadership and Management,125976.0
+Canada,Mid-level,BI and Visualization,77584.0
+Canada,Mid-level,Data Analysis,85172.44444444444
+Canada,Mid-level,Data Engineering,154654.0
+Canada,Mid-level,Data Science and Research,100412.7
+Canada,Mid-level,Machine Learning and AI,77350.0
+Canada,Senior,BI and Visualization,119375.0
+Canada,Senior,Data Analysis,123941.36842105263
+Canada,Senior,Data Architecture and Modeling,120329.0
+Canada,Senior,Data Engineering,145067.34615384616
+Canada,Senior,Data Science and Research,176768.71186440677
+Canada,Senior,Leadership and Management,134666.66666666666
+Canada,Senior,Machine Learning and AI,174032.6976744186
+France,Entry-level,Data Analysis,43735.0
+France,Entry-level,Data Science and Research,47480.125
+France,Mid-level,Data Analysis,75912.5
+France,Mid-level,Data Engineering,73362.55555555556
+France,Mid-level,Data Science and Research,58781.22222222222
+France,Mid-level,Machine Learning and AI,56279.0
+France,Senior,Data Engineering,53984.0
+France,Senior,Data Science and Research,117566.85714285714
+France,Senior,Machine Learning and AI,129185.44444444444
+Germany,Entry-level,Data Analysis,54418.5
+Germany,Entry-level,Data Engineering,50555.5
+Germany,Entry-level,Data Science and Research,63669.0
+Germany,Entry-level,Machine Learning and AI,61373.88888888889
+Germany,Executive,Data Science and Research,135936.0
+Germany,Mid-level,Data Analysis,50640.333333333336
+Germany,Mid-level,Data Engineering,68128.5
+Germany,Mid-level,Data Science and Research,75480.15384615384
+Germany,Mid-level,Machine Learning and AI,91410.66666666667
+Germany,Senior,Data Analysis,68084.5
+Germany,Senior,Data Engineering,124600.8
+Germany,Senior,Data Science and Research,148205.625
+Germany,Senior,Leadership and Management,79197.0
+Germany,Senior,Machine Learning and AI,141593.88888888888
+Spain,Entry-level,Data Analysis,21593.0
+Spain,Entry-level,Data Engineering,41027.0
+Spain,Entry-level,Data Science and Research,33333.5
+Spain,Entry-level,Machine Learning and AI,31520.0
+Spain,Executive,Data Engineering,79833.0
+Spain,Executive,Data Science and Research,69741.0
+Spain,Mid-level,Data Analysis,36773.0
+Spain,Mid-level,Data Engineering,71026.23076923077
+Spain,Mid-level,Data Science and Research,49359.666666666664
+Spain,Mid-level,Machine Learning and AI,39457.25
+Spain,Senior,Data Analysis,46117.21428571428
+Spain,Senior,Data Engineering,60417.36363636364
+Spain,Senior,Data Science and Research,58443.94
+Spain,Senior,Machine Learning and AI,64900.0
+United Kingdom,Entry-level,Data Analysis,58148.5
+United Kingdom,Entry-level,Data Engineering,61029.5
+United Kingdom,Entry-level,Data Quality and Operations,43064.0
+United Kingdom,Entry-level,Data Science and Research,82187.9
+United Kingdom,Entry-level,Machine Learning and AI,40167.666666666664
+United Kingdom,Executive,Data Engineering,140758.0
+United Kingdom,Executive,Data Science and Research,191787.4
+United Kingdom,Executive,Leadership and Management,169180.0
+United Kingdom,Mid-level,BI and Visualization,56906.0
+United Kingdom,Mid-level,Data Analysis,77148.83333333333
+United Kingdom,Mid-level,Data Architecture and Modeling,83052.0
+United Kingdom,Mid-level,Data Engineering,80822.3698630137
+United Kingdom,Mid-level,Data Science and Research,85872.3492063492
+United Kingdom,Mid-level,Leadership and Management,122028.61111111111
+United Kingdom,Mid-level,Machine Learning and AI,109452.92857142857
+United Kingdom,Senior,BI and Visualization,80437.0
+United Kingdom,Senior,Data Analysis,107900.42857142857
+United Kingdom,Senior,Data Architecture and Modeling,111947.44444444444
+United Kingdom,Senior,Data Engineering,110060.94736842105
+United Kingdom,Senior,Data Quality and Operations,110500.0
+United Kingdom,Senior,Data Science and Research,146922.64
+United Kingdom,Senior,Leadership and Management,156554.1875
+United Kingdom,Senior,Machine Learning and AI,172153.75862068965
+United States,Entry-level,BI and Visualization,85928.57142857143
+United States,Entry-level,Data Analysis,77018.43518518518
+United States,Entry-level,Data Engineering,105873.32432432432
+United States,Entry-level,Data Management and Strategy,87005.55555555556
+United States,Entry-level,Data Science and Research,123028.88990825688
+United States,Entry-level,Leadership and Management,94068.75
+United States,Entry-level,Machine Learning and AI,129727.89285714286
+United States,Executive,BI and Visualization,185566.66666666666
+United States,Executive,Data Analysis,116500.0
+United States,Executive,Data Architecture and Modeling,167500.0
+United States,Executive,Data Engineering,190769.8
+United States,Executive,Data Science and Research,221150.24193548388
+United States,Executive,Leadership and Management,196989.58333333334
+United States,Executive,Machine Learning and AI,206510.46153846153
+United States,Mid-level,BI and Visualization,112503.47826086957
+United States,Mid-level,Data Analysis,103491.62662337662
+United States,Mid-level,Data Architecture and Modeling,136696.15384615384
+United States,Mid-level,Data Engineering,129435.91097922849
+United States,Mid-level,Data Management and Strategy,100350.0
+United States,Mid-level,Data Quality and Operations,72483.75
+United States,Mid-level,Data Science and Research,148187.86575342464
+United States,Mid-level,Leadership and Management,116214.89814814815
+United States,Mid-level,Machine Learning and AI,160075.56441717793
+United States,Senior,BI and Visualization,144785.03056768558
+United States,Senior,Cloud and Database,155000.0
+United States,Senior,Data Analysis,122306.49695493301
+United States,Senior,Data Architecture and Modeling,163480.23444976076
+United States,Senior,Data Engineering,159878.8144611187
+United States,Senior,Data Management and Strategy,112340.48148148147
+United States,Senior,Data Quality and Operations,119345.58823529411
+United States,Senior,Data Science and Research,178575.31919961885
+United States,Senior,Leadership and Management,153983.43525179857
+United States,Senior,Machine Learning and AI,197712.7079107505
